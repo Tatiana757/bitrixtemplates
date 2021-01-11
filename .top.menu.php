@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Как купить", 
+		"about/howto/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Доставка", 
+		"about/delivery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О магазине", 
+		"about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Гарантия", 
+		"about/guaranty/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"about/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Мой кабинет", 
+		"personal/", 
+		Array(), 
+		Array(), 
+		"\$USER->IsAuthorized()" 
+	),
+	Array(
+		"Смартфоны", 
+		"/smartfony/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Телефоны", 
+		"/telefony/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Самсунг", 
+		"/samsung.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
